@@ -15,10 +15,10 @@ It helps users monitor their income, expenses, balance, and monthly spending lim
 
 ## Built With:
 
-- ⚛️ React (JSX)
-- 🚀 Vite (development and bundling)
-- 📊 Basic chart component for analytics
-- 🎨 Custom CSS (dark theme)
+- React (JSX)
+- Vite (development and bundling)
+- Basic chart component for analytics
+- Custom CSS (dark theme)
 
 ## Project Structure:
 ```
