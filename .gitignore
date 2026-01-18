@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# build
+dist
+
+# vite cache
+.vite
+
+# env
+.env
+
+# IDE
+.idea
